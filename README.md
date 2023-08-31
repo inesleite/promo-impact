@@ -1,6 +1,6 @@
 # Rossmann Causality
 
-Causality approach using 2 different models.
+Causality approach using 2 different models - My hypothesis is Sales can be optimized (maximized) if certain promotions in certain segments of products (Assortments) are launched in specific days and holidays. The ultimate goal would be to automate promotions and eventually stocks.
 
 Rossmann Store Sales Challenge - Forecast sales using store, promotion, and competitor data - [link](https://www.kaggle.com/c/rossmann-store-sales)
 
